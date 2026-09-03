@@ -1,0 +1,17 @@
+Career advice breaks when context breaks. An AI can rewrite a sentence, but it rarely shows its reasoning, waits for permission, or prepares the next human to help. Candoor Canvas turns that fragmented process into one visible collaboration.
+
+This candidate is targeting a Senior Product Manager role in AI platforms. The canvas opens with three deliberately weak bullets, a transparent impact score, and a prompt a judge can copy in seconds.
+
+The browser agent begins by reading the live workspace through WebMCP. It sees the target role, every accepted bullet, pending feedback, the score breakdown, advisor matches, and a version number. Then it diagnoses the first bullet. The evidence gap appears directly beside the resume, and the shared activity rail records exactly what happened.
+
+Next, the agent proposes a stronger version. Notice that the original remains accepted, the rewrite is shown as a before-and-after diff, and the score does not move. This is the trust boundary: AI prepares the work, but the candidate decides what becomes true.
+
+When the human accepts, the same reducer applies the edit. The score rises automatically because the new sentence contains an action, quantified evidence, scope, outcome, and target-role relevance. No tool can supply or invent that delta.
+
+Now the agent ranks fictional demonstration advisors for the remaining executive-storytelling gap. Matching is deterministic across role, expertise, industry, company familiarity, and bio, and every card explains why it ranked where it did. The candidate can still choose a different person.
+
+Finally, WebMCP stages the human handoff. The brief carries the goal, accepted rewrite, current score, unresolved gaps, advisor match, and a practical agenda. It is reviewable and copyable, but it never authenticates, books a session, or writes to Candoor production.
+
+Under the hood, six imperative tools and every manual control dispatch the same typed actions. Inputs use strict schemas and runtime validation. Registration cleans up with an abort signal, and browsers without WebMCP keep the complete manual experience. The public app is independent, open source, and tested at desktop, tablet, and mobile sizes.
+
+AI finds the signal. You decide what ships. Humans take it further. That is Candoor Canvas.

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <rect width="1920" height="1080" fill="#102a5c"/>
+  <circle cx="960" cy="230" r="58" fill="#fbf8ef"/><text x="960" y="251" text-anchor="middle" fill="#102a5c" font-family="Georgia,serif" font-size="70">C</text>
+  <text x="960" y="420" text-anchor="middle" fill="#ffffff" font-family="Georgia,serif" font-size="84" font-weight="600">AI finds the signal.</text>
+  <text x="960" y="520" text-anchor="middle" fill="#9bb4f4" font-family="Georgia,serif" font-size="84" font-style="italic">You decide what ships.</text>
+  <text x="960" y="620" text-anchor="middle" fill="#ffffff" font-family="Georgia,serif" font-size="84" font-weight="600">Humans take it further.</text>
+  <rect x="560" y="720" width="800" height="1" fill="#ffffff" opacity=".22"/>
+  <text x="960" y="790" text-anchor="middle" fill="#d9e2fa" font-family="Arial,sans-serif" font-size="31">candoor-canvas.vercel.app</text>
+  <text x="960" y="845" text-anchor="middle" fill="#9bb4f4" font-family="Courier New,monospace" font-size="20">github.com/wadooddaoud/candoor-canvas</text>
+</svg>

@@ -18,6 +18,12 @@ test-results/
 playwright-report/
 src/assets/hero.png
 
+# Submission renders stay local for upload; source script and title cards are tracked.
+video/work/
+video/*.mp4
+video/*.mp3
+video/*.vtt
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json

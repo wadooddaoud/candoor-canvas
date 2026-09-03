@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <rect width="1920" height="1080" fill="#f1eddf"/>
+  <circle cx="150" cy="135" r="43" fill="#102a5c"/><text x="150" y="151" text-anchor="middle" fill="#fbf8ef" font-family="Georgia,serif" font-size="51">C</text>
+  <text x="220" y="153" fill="#102a5c" font-family="Arial,sans-serif" font-size="34" font-weight="700">Candoor</text><text x="365" y="153" fill="#102a5c" font-family="Georgia,serif" font-size="38" font-style="italic">Canvas</text>
+  <text x="145" y="350" fill="#123ca6" font-family="Courier New,monospace" font-size="20" letter-spacing="4">AGENT-NATIVE CAREER INTELLIGENCE</text>
+  <text x="135" y="535" fill="#102a5c" font-family="Georgia,serif" font-size="150" font-weight="600">Your career story,</text>
+  <text x="135" y="690" fill="#123ca6" font-family="Georgia,serif" font-size="150" font-style="italic" font-weight="600">made undeniable.</text>
+  <rect x="140" y="830" width="760" height="3" fill="#102a5c" opacity=".2"/>
+  <text x="140" y="890" fill="#54534c" font-family="Arial,sans-serif" font-size="31">A WebMCP collaboration by Candoor</text>
+  <text x="1770" y="955" text-anchor="end" fill="#625f58" font-family="Courier New,monospace" font-size="18">WEBMCP CHALLENGE · 2026</text>
+</svg>

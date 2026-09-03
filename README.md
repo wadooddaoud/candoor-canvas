@@ -2,6 +2,8 @@
 
 **An agent-native career intelligence workbench where AI finds the evidence gap, the candidate keeps editorial control, and a human advisor takes the work further.**
 
+[Launch the live demo](https://candoor-canvas.vercel.app) · [View the architecture](./docs/architecture.svg) · [Read the submission draft](./docs/SUBMISSION.md)
+
 Candoor Canvas is a standalone entry for the 2026 WebMCP Challenge. It demonstrates a complete human–agent collaboration loop on one visible, inspectable page:
 
 ![Candoor Canvas interface](./docs/screenshots/candoor-canvas-home.webp)
