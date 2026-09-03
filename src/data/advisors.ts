@@ -1,5 +1,7 @@
 import type { AdvisorRecord } from '../types'
 
+const portrait = (name: string) => `https://raw.githubusercontent.com/wadooddaoud/candoor-canvas/main/public/advisors/${name}.webp`
+
 export const advisors: AdvisorRecord[] = [
   {
     id: 'maya-chen', name: 'Maya Chen', pronouns: 'she/her',
@@ -8,7 +10,7 @@ export const advisors: AdvisorRecord[] = [
     help: ['Executive storytelling', 'AI platform strategy', 'Promotion narratives'],
     expertise: ['product management', 'artificial intelligence', 'platforms', 'executive communication'],
     industries: ['technology', 'enterprise software'], companyFamiliarity: ['OpenAI', 'Anthropic', 'Google'],
-    avatar: '/advisors/maya-chen.webp', isDemo: true,
+    avatar: portrait('maya-chen'), isDemo: true,
   },
   {
     id: 'marcus-reed', name: 'Marcus Reed', pronouns: 'he/him',
@@ -17,7 +19,7 @@ export const advisors: AdvisorRecord[] = [
     help: ['Impact metrics', 'Stakeholder influence', 'Leadership interviews'],
     expertise: ['product leadership', 'metrics', 'stakeholder management', 'career strategy'],
     industries: ['technology', 'financial services'], companyFamiliarity: ['Stripe', 'Block', 'OpenAI'],
-    avatar: '/advisors/marcus-reed.webp', isDemo: true,
+    avatar: portrait('marcus-reed'), isDemo: true,
   },
   {
     id: 'priya-nair', name: 'Priya Nair', pronouns: 'she/her',
@@ -26,7 +28,7 @@ export const advisors: AdvisorRecord[] = [
     help: ['Technical storytelling', 'Platform roadmaps', 'System design interviews'],
     expertise: ['developer platforms', 'apis', 'technical product management', 'roadmaps'],
     industries: ['developer tools', 'enterprise software'], companyFamiliarity: ['OpenAI', 'GitHub', 'Microsoft'],
-    avatar: '/advisors/priya-nair.webp', isDemo: true,
+    avatar: portrait('priya-nair'), isDemo: true,
   },
   {
     id: 'elena-torres', name: 'Elena Torres', pronouns: 'she/her',
@@ -35,7 +37,7 @@ export const advisors: AdvisorRecord[] = [
     help: ['Portfolio narrative', 'Executive presence', 'Case-study structure'],
     expertise: ['storytelling', 'go-to-market', 'positioning', 'executive communication'],
     industries: ['technology', 'media'], companyFamiliarity: ['OpenAI', 'Canva', 'Notion'],
-    avatar: '/advisors/elena-torres.webp', isDemo: true,
+    avatar: portrait('elena-torres'), isDemo: true,
   },
   {
     id: 'david-okafor', name: 'David Okafor', pronouns: 'he/him',
@@ -44,7 +46,7 @@ export const advisors: AdvisorRecord[] = [
     help: ['Responsible AI', 'Program leadership', 'Operating cadence'],
     expertise: ['artificial intelligence', 'operations', 'governance', 'program management'],
     industries: ['technology', 'healthcare'], companyFamiliarity: ['OpenAI', 'Microsoft', 'Amazon'],
-    avatar: '/advisors/david-okafor.webp', isDemo: true,
+    avatar: portrait('david-okafor'), isDemo: true,
   },
   {
     id: 'samira-bell', name: 'Samira Bell', pronouns: 'they/them',
@@ -53,6 +55,6 @@ export const advisors: AdvisorRecord[] = [
     help: ['Career positioning', 'Interview loops', 'Offer strategy'],
     expertise: ['career strategy', 'product management', 'interviewing', 'leadership'],
     industries: ['technology', 'consumer products'], companyFamiliarity: ['Airbnb', 'OpenAI', 'Figma'],
-    avatar: '/advisors/samira-bell.webp', isDemo: true,
+    avatar: portrait('samira-bell'), isDemo: true,
   },
 ]
