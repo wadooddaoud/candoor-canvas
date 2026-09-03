@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Mono:wght@300;400;500&family=DM+Sans:wght@400;500;600;700&family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600&display=swap');
+
+:root {
+  font-family: 'DM Sans', sans-serif;
+  color: #17203a;
+  background: #f1eddf;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  --ink: #17203a;
+  --blue: #123ca6;
+  --navy: #102a5c;
+  --paper: #fbf8ef;
+  --cream: #f1eddf;
+  --amber: #e99a2f;
+  --green: #19684d;
+  --line: rgba(23, 32, 58, .15);
+}
+
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+body { margin: 0; min-width: 320px; min-height: 100vh; }
+button, a { font: inherit; }
+button { color: inherit; }
+button:focus-visible, a:focus-visible { outline: 3px solid #e99a2f; outline-offset: 3px; }
+::selection { background: #f2c873; color: #102a5c; }
